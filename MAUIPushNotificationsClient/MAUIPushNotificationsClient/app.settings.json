@@ -1,0 +1,5 @@
+{
+  "Settings": {
+    "PushnotificationsAPIEndpoint": "http://192.168.1.120:9091"
+  }
+}
