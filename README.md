@@ -4,3 +4,7 @@
    - firebase-adminsdk.json into PushnotificationsBack root folder
    - google-services.json into MAUIPushNotificationsClient root folder
 3. Configure IP and port in app.settings.json from MAUIPushNotificationsClient (root folder)
+
+Remark: PushnotificationsBack is implemented with hardcoded value to listen on any IP on port 9091.
+
+Enjoy!
